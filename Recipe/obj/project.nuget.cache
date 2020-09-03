@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "dYwfp7WZm8FbOS+CN3S97eqiUmK+FytopX9xX2hYZk8W6FrnnLzvPFy1/2w08Uj14rer0LYQIpQXewBz/Rsq4A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jordi\\Documents\\projects\\dotnettest\\Recipe\\Recipe\\Recipe.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jordi\\.nuget\\packages\\microsoft.aspnetcore.nodeservices\\3.1.7\\microsoft.aspnetcore.nodeservices.3.1.7.nupkg.sha512",
+    "C:\\Users\\jordi\\.nuget\\packages\\microsoft.aspnetcore.spaservices\\3.1.7\\microsoft.aspnetcore.spaservices.3.1.7.nupkg.sha512",
+    "C:\\Users\\jordi\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.7\\microsoft.extensions.configuration.3.1.7.nupkg.sha512",
+    "C:\\Users\\jordi\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.7\\microsoft.extensions.configuration.abstractions.3.1.7.nupkg.sha512",
+    "C:\\Users\\jordi\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.7\\microsoft.extensions.configuration.binder.3.1.7.nupkg.sha512",
+    "C:\\Users\\jordi\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.7\\microsoft.extensions.dependencyinjection.3.1.7.nupkg.sha512",
+    "C:\\Users\\jordi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.7\\microsoft.extensions.dependencyinjection.abstractions.3.1.7.nupkg.sha512",
+    "C:\\Users\\jordi\\.nuget\\packages\\microsoft.extensions.logging\\3.1.7\\microsoft.extensions.logging.3.1.7.nupkg.sha512",
+    "C:\\Users\\jordi\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.7\\microsoft.extensions.logging.abstractions.3.1.7.nupkg.sha512",
+    "C:\\Users\\jordi\\.nuget\\packages\\microsoft.extensions.logging.configuration\\3.1.7\\microsoft.extensions.logging.configuration.3.1.7.nupkg.sha512",
+    "C:\\Users\\jordi\\.nuget\\packages\\microsoft.extensions.logging.console\\3.1.7\\microsoft.extensions.logging.console.3.1.7.nupkg.sha512",
+    "C:\\Users\\jordi\\.nuget\\packages\\microsoft.extensions.options\\3.1.7\\microsoft.extensions.options.3.1.7.nupkg.sha512",
+    "C:\\Users\\jordi\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\3.1.7\\microsoft.extensions.options.configurationextensions.3.1.7.nupkg.sha512",
+    "C:\\Users\\jordi\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.7\\microsoft.extensions.primitives.3.1.7.nupkg.sha512",
+    "C:\\Users\\jordi\\.nuget\\packages\\microsoft.typescript.msbuild\\3.9.7\\microsoft.typescript.msbuild.3.9.7.nupkg.sha512",
+    "C:\\Users\\jordi\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\jordi\\.nuget\\packages\\yarn.msbuild\\1.22.5\\yarn.msbuild.1.22.5.nupkg.sha512"
+  ],
+  "logs": []
+}

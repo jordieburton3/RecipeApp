@@ -1,0 +1,25 @@
+{
+  "typeAcquisition": {
+    "enable": true
+  },
+  "compileOnSave": false,
+  "compilerOptions": {
+    "sourceMap": true,
+    "module": "esnext",
+    "target": "es6",
+    "noImplicitAny": false,
+    "jsx": "react",
+    "outDir": "wwwroot/dist",
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "lib": [
+      "es2016",
+      "dom",
+      "es5"
+    ]
+  },
+  "exclude": [
+    "node_modules",
+    "wwwroot"
+  ]
+}
