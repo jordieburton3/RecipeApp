@@ -6,6 +6,7 @@
   "compilerOptions": {
     "sourceMap": true,
     "module": "esnext",
+    "skipLibCheck": true,
     "target": "es6",
     "noImplicitAny": false,
     "jsx": "react",

@@ -17,7 +17,7 @@ module.exports = (env) => {
         stats: { modules: false },
 
         entry: {
-            'App': './Scripts/file.ts',
+            'WelcomePage': './Scripts/WelcomePageEntry.ts',
         },
 
         node: {
@@ -49,6 +49,7 @@ module.exports = (env) => {
                 {
                     test: /\.tsx?$/,
                     include: /Scripts/,
+                    exclude: /node_modules/,
                     loader: [
                         {
                             loader: 'awesome-typescript-loader',
@@ -56,8 +57,7 @@ module.exports = (env) => {
                                 useCache: true,
                                 useBabel: true,
                                 babelOptions: {
-                                    babelrc: false,
-                                    plugins: ['react-hot-loader/babel'],
+                                    babelrc: false
                                 }
                             }
                         }
@@ -65,7 +65,8 @@ module.exports = (env) => {
                 },
                 {
                     test: /\.tsx?$/,
-                    include: /Scripts\/Components/,
+                    include: /Scripts/,
+                    exclude: /node_modules/,
                     loader: [
                         {
                             loader: 'awesome-typescript-loader',
@@ -73,8 +74,7 @@ module.exports = (env) => {
                                 useCache: true,
                                 useBabel: true,
                                 babelOptions: {
-                                    babelrc: false,
-                                    plugins: ['react-hot-loader/babel'],
+                                    babelrc: false
                                 }
                             }
                         }
